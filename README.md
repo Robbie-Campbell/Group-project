@@ -1,2 +1,2 @@
 # Group-project
-Read the README
+Let's just have fun!
